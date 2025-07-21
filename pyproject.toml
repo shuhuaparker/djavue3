@@ -1,0 +1,5 @@
+[project]
+name = "djavue3"
+version = "0.1.0"
+description = "Cookiecutter project template for a full-stack production-ready web application using Django and Vue.js"
+requires-python = ">=3.10"
